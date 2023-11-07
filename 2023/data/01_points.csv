@@ -1,0 +1,537 @@
+year,winner,gender,country,time,marathon
+2018,Dickson Chumba,Male,Kenya,02:05:30,Tokyo
+2018,Birhane Dibaba,Female,Ethiopia,02:19:51,Tokyo
+2017,Wilson Kipsang,Male,Kenya,02:03:58,Tokyo
+2017,Sarah Chepchirchir,Female,Kenya,02:19:47,Tokyo
+2016,Feyisa Lilesa,Male,Ethiopia,02:06:56,Tokyo
+2016,Helah Kiprop,Female,Kenya,02:21:27,Tokyo
+2015,Endeshaw Negesse,Male,Ethiopia,02:06:00,Tokyo
+2015,Birhane Dibaba,Female,Ethiopia,02:23:15,Tokyo
+2014,Dickson Chumba,Male,Kenya,02:05:42,Tokyo
+2014,Tirfi Tsegaye,Female,Ethiopia,02:22:23,Tokyo
+2013,Dennis Kimetto,Male,Kenya,02:06:50,Tokyo
+2013,Aberu Kebede,Female,Ethiopia,02:25:34,Tokyo
+2012,Michael Kipyego,Male,Kenya,02:07:37,Tokyo
+2012,Atsede Habtamu,Female,Ethiopia,02:25:28,Tokyo
+2011,Hailu Mekonnen,Male,Ethiopia,02:07:35,Tokyo
+2011,Noriko Higuchi,Female,Japan,02:28:49,Tokyo
+2010,Masakazu Fujiwara,Male,Japan,02:12:19,Tokyo
+2010,Alevtina Biktimirova,Female,Russia,02:34:39,Tokyo
+2009,Salim Kipsang,Male,Kenya,02:10:27,Tokyo
+2009,Mizuho Nasukawa,Female,Japan,02:25:38,Tokyo
+2008,Viktor Röthlin,Male,Switzerland,02:07:23,Tokyo
+2008,Claudia Dreher,Female,Germany,02:35:35,Tokyo
+2007,Daniel Njenga,Male,Kenya,02:09:45,Tokyo
+2007,Hitomi Niiya,Female,Japan,02:31:02,Tokyo
+2017,Eliud Kipchoge,Male,Kenya,02:03:32,Berlin
+2017,Gladys Cherono,Female,Kenya,02:20:23,Berlin
+2016,Kenenisa Bekele,Male,Ethiopia,02:03:03,Berlin
+2016,Aberu Kebede,Female,Ethiopia,02:20:45,Berlin
+2015,Eliud Kipchoge,Male,Kenya,02:04:00,Berlin
+2015,Gladys Cherono,Female,Kenya,02:19:25,Berlin
+2014,Dennis Kimetto,Male,Kenya,02:02:57,Berlin
+2014,Tirfi Tsegaye,Female,Ethiopia,02:20:18,Berlin
+2013,Wilson Kipsang,Male,Kenya,02:03:23,Berlin
+2013,Florence Kiplagat,Female,Kenya,02:21:13,Berlin
+2012,Geoffrey Mutai,Male,Kenya,02:04:15,Berlin
+2012,Aberu Kebede,Female,Ethiopia,02:20:30,Berlin
+2011,Patrick Musyoki,Male,Kenya,02:03:38,Berlin
+2011,Florence Kiplagat,Female,Kenya,02:19:44,Berlin
+2010,Patrick Musyoki,Male,Kenya,02:05:08,Berlin
+2010,Aberu Kebede,Female,Ethiopia,02:23:58,Berlin
+2009,Haile Gebrselassie,Male,Ethiopia,02:06:08,Berlin
+2009,Atsede Habtamu,Female,Ethiopia,02:24:47,Berlin
+2008,Haile Gebrselassie,Male,Ethiopia,02:03:59,Berlin
+2008,Irina Mikitenko,Female,Germany,02:19:19,Berlin
+2007,Haile Gebrselassie,Male,Ethiopia,02:04:26,Berlin
+2007,Gete Wami,Female,Ethiopia,02:23:17,Berlin
+2006,Haile Gebrselassie,Male,Ethiopia,02:05:56,Berlin
+2006,Gete Wami,Female,Ethiopia,02:21:34,Berlin
+2005,Philip Manyim,Male,Kenya,02:07:41,Berlin
+2005,Noguchi,Female,Japan,02:19:12,Berlin
+2004,Felix Limo,Male,Kenya,02:06:44,Berlin
+2004,Yoko Shibui,Female,Japan,02:19:41,Berlin
+2003,Paul Tergat,Male,Kenya,02:04:55,Berlin
+2003,Yasuko Hashimoto,Female,Japan,02:26:32,Berlin
+2002,Raymond Kipkoech,Male,Kenya,02:06:47,Berlin
+2002,Naoko Takahashi,Female,Japan,02:21:49,Berlin
+2001,Joseph Ngolepus,Male,Kenya,02:08:47,Berlin
+2001,Naoko Takahashi,Female,Japan,02:19:46,Berlin
+2000,Simon Biwott,Male,Kenya,02:07:42,Berlin
+2000,Kazumi Matsuo,Female,Japan,02:26:15,Berlin
+1999,Josephat Kiprono,Male,Kenya,02:06:44,Berlin
+1999,Tegla Loroupe,Female,Kenya,02:20:43,Berlin
+1998,Ronaldo da Costa,Male,Brazil,02:06:05,Berlin
+1998,Marleen Renders,Female,Belgium,02:25:22,Berlin
+1997,Elijah Lagat,Male,Kenya,02:07:41,Berlin
+1997,Catherina McKiernan,Female,Ireland,02:23:44,Berlin
+1996,Abel Antón,Male,Spain,02:09:15,Berlin
+1996,Colleen De Reuck,Female,South Africa,02:26:35,Berlin
+1995,Sammy Lelei,Male,Kenya,02:07:02,Berlin
+1995,Uta Pippig,Female,Germany,02:25:37,Berlin
+1994,António Pinto,Male,Portugal,02:08:31,Berlin
+1994,Katrin Dörre-Heinig,Female,Germany,02:25:15,Berlin
+1993,Xolile Yawa,Male,South Africa,02:10:57,Berlin
+1993,Renata Kokowska,Female,Poland,02:26:20,Berlin
+1992,David Tsebe,Male,South Africa,02:08:07,Berlin
+1992,Uta Pippig,Female,Germany,02:30:22,Berlin
+1991,Steve Brace,Male,United Kingdom,02:10:57,Berlin
+1991,Renata Kokowska,Female,Poland,02:27:36,Berlin
+1990,Steve Moneghetti,Male,Australia,02:08:16,Berlin
+1990,Uta Pippig,Female,Germany,02:28:37,Berlin
+1989,Alfredo Shahanga,Male,Tanzania,02:10:11,Berlin
+1989,Päivi Tikkanen,Female,Finland,02:28:45,Berlin
+1988,Suleiman Nyambui,Male,Tanzania,02:11:45,Berlin
+1988,Renata Kokowska,Female,Poland,02:29:16,Berlin
+1987,Suleiman Nyambui,Male,Tanzania,02:11:11,Berlin
+1987,Kerstin Preßler,Female,Germany,02:31:22,Berlin
+1986,Boguslaw Psujek,Male,Poland,02:11:03,Berlin
+1986,Charlotte Teske,Female,Germany,02:32:10,Berlin
+1985,Jimmy Ashworth,Male,United Kingdom,02:11:43,Berlin
+1985,Magda Ilands,Female,Belgium,02:34:10,Berlin
+1984,John Skovbjerg,Male,Denmark,02:13:35,Berlin
+1984,Ágnes Sipka,Female,Hungary,02:39:32,Berlin
+1983,Karel Lismont,Male,Belgium,02:13:37,Berlin
+1983,Karen Holdsworth,Female,United Kingdom,02:40:32,Berlin
+1982,Domingo Tibaduiza,Male,Colombia,02:14:47,Berlin
+1982,Jean Lochhead,Female,United Kingdom,02:47:05,Berlin
+1981,Ian Ray,Male,United Kingdom,02:15:42,Berlin
+1981,Angelika Stephan,Female,Germany,02:47:24,Berlin
+1980,Ingo Sensburg,Male,Germany,02:16:48,Berlin
+1980,Gerlinde Püttmann,Female,Germany,02:47:18,Berlin
+1979,Ingo Sensburg,Male,Germany,02:21:09,Berlin
+1979,Jutta von Haase,Female,Germany,03:07:07,Berlin
+1978,Michael Spöttel,Male,Germany,02:20:03,Berlin
+1978,Ursula Blaschke,Female,Germany,02:57:09,Berlin
+1977,Günter Mielke,Male,Germany,02:15:19,Berlin
+1977,Christa Vahlensieck,Female,Germany,02:34:48,Berlin
+1976,Ingo Sensburg,Male,Germany,02:23:08,Berlin
+1976,Jutta von Haase,Female,Germany,03:05:19,Berlin
+1975,Ralf Bochröder,Male,Germany,02:47:08,Berlin
+1975,Christin Bochröder,Female,Germany,02:59:15,Berlin
+1974,Günter Hallas,Male,Germany,02:44:53,Berlin
+1974,Jutta von Haase,Female,Germany,03:22:01,Berlin
+2018,Yuki Kawauchi,Male,Japan,02:15:58,Boston
+2018,Desi Linden,Female,United States,02:39:54,Boston
+2017,Geoffrey Kirui,Male,Kenya,02:09:37,Boston
+2017,Edna Kiplagat,Female,Kenya,02:21:52,Boston
+2016,Lemi Berhanu Hayle,Male,Ethiopia,02:12:45,Boston
+2016,Atsede Baysa,Female,Ethiopia,02:29:19,Boston
+2015,Lelisa Desisa Benti,Male,Ethiopia,02:09:17,Boston
+2015,Caroline Rotich,Female,Kenya,02:24:55,Boston
+2014,Meb Keflezighi,Male,United States,02:08:37,Boston
+2014,Rita Jeptoo,Female,Kenya,02:18:57,Boston
+2014,Bizunesh Deba,Female,Ethiopia,02:19:59,Boston
+2013,Lelisa Desisa Benti,Male,Ethiopia,02:10:22,Boston
+2013,Rita Jeptoo,Female,Kenya,02:26:25,Boston
+2012,Wesley Korir,Male,Kenya,02:12:40,Boston
+2012,Sharon Cherop,Female,Kenya,02:31:50,Boston
+2011,Geoffrey Mutai,Male,Kenya,02:03:02,Boston
+2011,Caroline Kilel,Female,Kenya,02:22:36,Boston
+2010,Robert Kiprono Cheruiyot,Male,Kenya,02:05:52,Boston
+2010,Teyba Erkesso,Female,Ethiopia,02:26:11,Boston
+2009,Deriba Merga,Male,Ethiopia,02:08:42,Boston
+2009,Salina Kosgei,Female,Kenya,02:32:16,Boston
+2008,Robert Kipkoech Cheruiyot,Male,Kenya,02:07:45,Boston
+2008,Dire Tune,Female,Ethiopia,02:25:25,Boston
+2007,Robert Kipkoech Cheruiyot,Male,Kenya,02:14:13,Boston
+2007,Lidiya Grigoryeva,Female,Russia,02:29:18,Boston
+2006,Robert Kipkoech Cheruiyot,Male,Kenya,02:07:14,Boston
+2006,Rita Jeptoo,Female,Kenya,02:23:38,Boston
+2005,Hailu Negussie,Male,Ethiopia,02:11:44,Boston
+2005,Catherine Ndereba,Female,Kenya,02:25:12,Boston
+2004,Timothy Cherigat,Male,Kenya,02:10:37,Boston
+2004,Catherine Ndereba,Female,Kenya,02:24:27,Boston
+2003,Robert Kipkoech Cheruiyot,Male,Kenya,02:10:11,Boston
+2003,Svetlana Zakharova,Female,Russia,02:25:19,Boston
+2002,Rodgers Rop,Male,Kenya,02:09:02,Boston
+2002,Margaret Okayo,Female,Kenya,02:20:43,Boston
+2001,Lee Bong-Ju,Male,South Korea,02:09:43,Boston
+2001,Catherine Ndereba,Female,Kenya,02:23:53,Boston
+2000,Elijah Lagat,Male,Kenya,02:09:47,Boston
+2000,Catherine Ndereba,Female,Kenya,02:26:11,Boston
+1999,Joseph Chebet,Male,Kenya,02:09:52,Boston
+1999,Fatuma Roba,Female,Ethiopia,02:23:25,Boston
+1998,Moses Tanui,Male,Kenya,02:07:34,Boston
+1998,Fatuma Roba,Female,Ethiopia,02:23:21,Boston
+1997,Lameck Aguta,Male,Kenya,02:10:34,Boston
+1997,Fatuma Roba,Female,Ethiopia,02:26:23,Boston
+1996,Moses Tanui,Male,Kenya,02:09:15,Boston
+1996,Uta Pippig,Female,Germany,02:27:12,Boston
+1995,Cosmas Ndeti,Male,Kenya,02:09:22,Boston
+1995,Uta Pippig,Female,Germany,02:25:11,Boston
+1994,Cosmas Ndeti,Male,Kenya,02:07:15,Boston
+1994,Uta Pippig,Female,Germany,02:21:45,Boston
+1993,Cosmas Ndeti,Male,Kenya,02:09:33,Boston
+1993,Olga Markova,Female,Russia,02:25:27,Boston
+1992,Ibrahim Hussein,Male,Kenya,02:08:14,Boston
+1992,Olga Markova,Female,Russia,02:23:43,Boston
+1991,Ibrahim Hussein,Male,Kenya,02:11:06,Boston
+1991,Wanda Panfil,Female,Poland,02:24:18,Boston
+1990,Gelindo Bordin,Male,Italy,02:08:19,Boston
+1990,Rosa Mota,Female,Portugal,02:25:24,Boston
+1989,Abebe Mekonnen,Male,Ethiopia,02:09:06,Boston
+1989,Ingrid Kristiansen,Female,Norway,02:24:33,Boston
+1988,Ibrahim Hussein,Male,Kenya,02:08:43,Boston
+1988,Rosa Mota,Female,Portugal,02:24:30,Boston
+1987,Toshihiko Seko,Male,Japan,02:11:50,Boston
+1987,Rosa Mota,Female,Portugal,02:25:21,Boston
+1986,Robert de Castella,Male,Australia,02:07:51,Boston
+1986,Ingrid Kristiansen,Female,Norway,02:24:55,Boston
+1985,Geoff Smith,Male,United Kingdom,02:14:05,Boston
+1985,Lisa Larsen Weidenbach,Female,United States,02:34:06,Boston
+1984,Geoff Smith,Male,United Kingdom,02:10:34,Boston
+1984,Lorraine Moller,Female,New Zealand,02:29:28,Boston
+1983,Greg Meyer,Male,United States,02:09:00,Boston
+1983,Joan Benoit,Female,United States,02:22:43,Boston
+1982,Alberto Salazar,Male,United States,02:08:52,Boston
+1982,Charlotte Teske,Female,Germany,02:29:33,Boston
+1981,Toshihiko Seko,Male,Japan,02:09:26,Boston
+1981,Allison Roe,Female,New Zealand,02:26:46,Boston
+1980,Bill Rodgers,Male,United States,02:12:11,Boston
+1980,Jacqueline Gareau,Female,Canada,02:34:28,Boston
+1979,Bill Rodgers,Male,United States,02:09:27,Boston
+1979,Joan Benoit,Female,United States,02:35:15,Boston
+1978,Bill Rodgers,Male,United States,02:10:13,Boston
+1978,Gayle Barron,Female,United States,02:44:52,Boston
+1977,Jerome Drayton,Male,Canada,02:14:46,Boston
+1977,Miki Gorman,Female,United States,02:48:33,Boston
+1976,Jack Fultz,Male,United States,02:20:19,Boston
+1976,Kim Merritt,Female,United States,02:47:10,Boston
+1975,Bill Rodgers,Male,United States,02:09:55,Boston
+1975,Liane Winter,Female,Germany,02:42:24,Boston
+1974,Neil Cusack,Male,Ireland,02:13:39,Boston
+1974,Miki Gorman,Female,United States,02:47:11,Boston
+1973,Jon Anderson,Male,United States,02:16:03,Boston
+1973,Jacqueline Hansen,Female,United States,03:05:59,Boston
+1972,Olavi Suomalainen,Male,Finland,02:15:39,Boston
+1972,Nina Kuscsik,Female,United States,03:10:26,Boston
+1971,Álvaro Mejía,Male,Colombia,02:18:45,Boston
+1971,Sara Mae Berman,Female,United States,03:08:30,Boston
+1970,Ron Hill,Male,United Kingdom,02:10:30,Boston
+1970,Sara Mae Berman,Female,United States,03:05:07,Boston
+1969,Yoshiaki Unetani,Male,Japan,02:13:49,Boston
+1969,Sara Mae Berman,Female,United States,03:22:46,Boston
+1968,Amby Burfoot,Male,United States,02:22:17,Boston
+1968,Bobbi Gibb,Female,United States,03:30:00,Boston
+1967,Dave McKenzie,Male,New Zealand,02:15:45,Boston
+1967,Bobbi Gibb,Female,United States,03:27:17,Boston
+1966,Kenji Kimihara,Male,Japan,02:17:11,Boston
+1966,Bobbi Gibb,Female,United States,03:21:40,Boston
+1965,Morio Shigematsu,Male,Japan,02:16:33,Boston
+1964,Aurèle Vandendriessche,Male,Belgium,02:19:59,Boston
+1963,Aurèle Vandendriessche,Male,Belgium,02:18:58,Boston
+1962,Eino Oksanen,Male,Finland,02:23:48,Boston
+1961,Eino Oksanen,Male,Finland,02:23:39,Boston
+1960,Paavo Kotila,Male,Finland,02:20:54,Boston
+1959,Eino Oksanen,Male,Finland,02:22:42,Boston
+1958,Franjo Mihalic,Male,Yugoslavia,02:25:54,Boston
+1957,John J. Kelley,Male,United States,02:20:05,Boston
+1956,Antti Viskari,Male,Finland,02:14:14,Boston
+1955,Hideo Hamamura,Male,Japan,02:18:22,Boston
+1954,Veikko Karvonen,Male,Finland,02:20:39,Boston
+1953,Keizo Yamada,Male,Japan,02:18:51,Boston
+1952,Doroteo Flores,Male,Guatemala,02:31:53,Boston
+1951,Shigeki Tanaka,Male,Japan,02:27:45,Boston
+1950,Ham Kee-Yong,Male,South Korea,02:32:39,Boston
+1949,Gösta Leandersson,Male,Sweden,02:31:50,Boston
+1948,Gérard Côté,Male,Canada,02:31:02,Boston
+1947,Suh Yun-bok,Male,South Korea,02:25:39,Boston
+1946,Stylianos Kyriakides,Male,Greece,02:29:27,Boston
+1945,John A. Kelley,Male,United States,02:30:40,Boston
+1944,Gérard Côté,Male,Canada,02:31:50,Boston
+1943,Gérard Côté,Male,Canada,02:28:25,Boston
+1942,Joe Smith,Male,United States,02:26:51,Boston
+1941,Leslie S. Pawson,Male,United States,02:30:38,Boston
+1940,Gérard Côté,Male,Canada,02:28:28,Boston
+1939,Ellison Brown,Male,United States,02:28:51,Boston
+1938,Leslie S. Pawson,Male,United States,02:35:34,Boston
+1937,Walter Young,Male,Canada,02:33:20,Boston
+1936,Ellison Brown,Male,United States,02:33:40,Boston
+1935,John A. Kelley,Male,United States,02:32:07,Boston
+1934,Dave Komonen,Male,Canada,02:32:53,Boston
+1933,Leslie S. Pawson,Male,United States,02:31:01,Boston
+1932,Paul de Bruyn,Male,Germany,02:33:36,Boston
+1931,James Henigan,Male,United States,02:46:45,Boston
+1930,Clarence DeMar,Male,United States,02:34:48,Boston
+1929,Johnny Miles,Male,Canada,02:33:08,Boston
+1928,Clarence DeMar,Male,United States,02:37:07,Boston
+1927,Clarence DeMar,Male,United States,02:40:22,Boston
+1926,Johnny Miles,Male,Canada,02:25:40,Boston
+1925,Charles Mellor,Male,United States,02:33:00,Boston
+1924,Clarence DeMar,Male,United States,02:29:40,Boston
+1923,Clarence DeMar,Male,United States,02:23:47,Boston
+1922,Clarence DeMar,Male,United States,02:18:10,Boston
+1921,Frank Zuna,Male,United States,02:18:57,Boston
+1920,Peter Trivoulides,Male,Greece,02:29:31,Boston
+1919,Carl Linder,Male,United States,02:29:13,Boston
+1917,Bill Kennedy,Male,United States,02:28:37,Boston
+1916,Arthur Roth,Male,United States,02:27:16,Boston
+1915,Édouard Fabre,Male,Canada,02:31:41,Boston
+1914,James Duffy,Male,Canada,02:25:14,Boston
+1913,Fritz Carlson,Male,United States,02:25:14,Boston
+1912,Michael J. Ryan,Male,United States,02:21:18,Boston
+1911,Clarence DeMar,Male,United States,02:21:39,Boston
+1910,Fred Cameron,Male,Canada,02:28:52,Boston
+1909,Henri Renaud,Male,United States,02:53:36,Boston
+1908,Thomas Morrissey,Male,United States,02:25:43,Boston
+1907,Thomas Longboat,Male,Canada,02:24:24,Boston
+1906,Tim Ford,Male,United States,02:45:45,Boston
+1905,Frederick Lorz,Male,United States,02:38:25,Boston
+1904,Michael Spring,Male,United States,02:38:04,Boston
+1903,John Lorden,Male,United States,02:41:29,Boston
+1902,Sammy Mellor,Male,United States,02:43:12,Boston
+1901,Jack Caffery,Male,Canada,02:29:23,Boston
+1900,Jack Caffery,Male,Canada,02:39:44,Boston
+1899,Lawrence Brignolia,Male,United States,02:54:38,Boston
+1898,Ronald J. MacDonald,Male,Canada,02:42:00,Boston
+1897,John J. McDermott,Male,United States,02:55:10,Boston
+2017,Geoffrey Kamworor,Male,Kenya,02:10:53,NYC
+2017,Shalane Flanagan,Female,United States,02:26:53,NYC
+2016,Ghirmay Ghebreslassie,Male,Eritrea,02:07:51,NYC
+2016,Mary Keitany,Female,Kenya,02:24:26,NYC
+2015,Stanley Biwott,Male,Kenya,02:10:34,NYC
+2015,Mary Keitany,Female,Kenya,02:24:25,NYC
+2014,Wilson Kipsang,Male,Kenya,02:10:59,NYC
+2014,Mary Keitany,Female,Kenya,02:25:07,NYC
+2013,Geoffrey Mutai,Male,Kenya,02:08:24,NYC
+2013,Priscah Jeptoo,Female,Kenya,02:25:07,NYC
+2011,Geoffrey Mutai,Male,Kenya,02:05:06,NYC
+2011,Firehiwot Dado,Female,Ethiopia,02:23:15,NYC
+2010,Gebregziabher Gebremariam,Male,Ethiopia,02:08:14,NYC
+2010,Edna Kiplagat,Female,Kenya,02:28:20,NYC
+2009,Meb Keflezighi,Male,United States,02:09:15,NYC
+2009,Derartu Tulu,Female,Ethiopia,02:28:52,NYC
+2008,Marílson Gomes dos Santos,Male,Brazil,02:08:43,NYC
+2008,Paula Radcliffe,Female,United Kingdom,02:23:56,NYC
+2007,Martin Lel,Male,Kenya,02:09:04,NYC
+2007,Paula Radcliffe,Female,United Kingdom,02:23:09,NYC
+2006,Marílson Gomes dos Santos,Male,Brazil,02:09:58,NYC
+2006,Jelena Prokopcuka,Female,Latvia,02:25:05,NYC
+2005,Paul Tergat,Male,Kenya,02:09:30,NYC
+2005,Jelena Prokopcuka,Female,Latvia,02:24:41,NYC
+2004,Hendrick Ramaala,Male,South Africa,02:09:28,NYC
+2004,Paula Radcliffe,Female,United Kingdom,02:23:10,NYC
+2003,Martin Lel,Male,Kenya,02:10:30,NYC
+2003,Margaret Okayo,Female,Kenya,02:22:31,NYC
+2002,Rodgers Rop,Male,Kenya,02:08:07,NYC
+2002,Joyce Chepchumba,Female,Kenya,02:25:56,NYC
+2001,Tesfaye Jifar,Male,Ethiopia,02:07:43,NYC
+2001,Margaret Okayo,Female,Kenya,02:24:21,NYC
+2000,Abdelkader El Mouaziz,Male,Morocco,02:10:09,NYC
+2000,Lyudmila Petrova,Female,Russia,02:25:45,NYC
+1999,Joseph Chebet,Male,Kenya,02:09:14,NYC
+1999,Adriana Fernandez,Female,Mexico,02:25:06,NYC
+1998,John Kagwe,Male,Kenya,02:08:45,NYC
+1998,Franca Fiacconi,Female,Italy,02:25:17,NYC
+1997,John Kagwe,Male,Kenya,02:08:12,NYC
+1997,Franziska Rochat-Moser,Female,Switzerland,02:28:43,NYC
+1996,Giacomo Leone,Male,Italy,02:09:54,NYC
+1996,Anuta Catuna,Female,Romania,02:28:18,NYC
+1995,Germán Silva,Male,Mexico,02:11:00,NYC
+1995,Tegla Loroupe,Female,Kenya,02:28:06,NYC
+1994,Germán Silva,Male,Mexico,02:11:21,NYC
+1994,Tegla Loroupe,Female,Kenya,02:27:37,NYC
+1993,Andrés Espinosa,Male,Mexico,02:10:04,NYC
+1993,Uta Pippig,Female,Germany,02:26:24,NYC
+1992,Willie Mtolo,Male,South Africa,02:09:29,NYC
+1992,Lisa Ondieki,Female,Australia,02:24:40,NYC
+1991,Salvador García,Male,Mexico,02:09:28,NYC
+1991,Liz McColgan,Female,United Kingdom,02:27:32,NYC
+1990,Douglas Wakiihuri,Male,Kenya,02:12:39,NYC
+1990,Wanda Panfil,Female,Poland,02:30:45,NYC
+1989,Juma Ikangaa,Male,Tanzania,02:08:01,NYC
+1989,Ingrid Kristiansen,Female,Norway,02:25:30,NYC
+1988,Steve Jones,Male,United Kingdom,02:08:20,NYC
+1988,Grete Waitz,Female,Norway,02:28:07,NYC
+1987,Ibrahim Hussein,Male,Kenya,02:11:01,NYC
+1987,Priscilla Welch,Female,United Kingdom,02:30:17,NYC
+1986,Gianni Poli,Male,Italy,02:11:06,NYC
+1986,Grete Waitz,Female,Norway,02:28:06,NYC
+1985,Orlando Pizzolato,Male,Italy,02:11:34,NYC
+1985,Grete Waitz,Female,Norway,02:28:34,NYC
+1984,Orlando Pizzolato,Male,Italy,02:14:53,NYC
+1984,Grete Waitz,Female,Norway,02:29:30,NYC
+1983,Rod Dixon,Male,New Zealand,02:08:59,NYC
+1983,Grete Waitz,Female,Norway,02:27:00,NYC
+1982,Alberto Salazar,Male,United States,02:09:29,NYC
+1982,Grete Waitz,Female,Norway,02:27:14,NYC
+1981,Alberto Salazar,Male,United States,02:08:13,NYC
+1981,Allison Roe,Female,New Zealand,02:25:29,NYC
+1980,Alberto Salazar,Male,United States,02:09:41,NYC
+1980,Grete Waitz,Female,Norway,02:25:42,NYC
+1979,Bill Rodgers,Male,United States,02:11:42,NYC
+1979,Grete Waitz,Female,Norway,02:27:33,NYC
+1978,Bill Rodgers,Male,United States,02:12:12,NYC
+1978,Grete Waitz,Female,Norway,02:32:30,NYC
+1977,Bill Rodgers,Male,United States,02:11:28,NYC
+1977,Miki Gorman,Female,United States,02:43:10,NYC
+1976,Bill Rodgers,Male,United States,02:10:10,NYC
+1976,Miki Gorman,Female,United States,02:39:11,NYC
+1975,Tom Fleming,Male,United States,02:19:27,NYC
+1975,Kim Merritt,Female,United States,02:46:14,NYC
+1974,Norbert Sander,Male,United States,02:26:30,NYC
+1974,Kathrine Switzer,Female,United States,03:07:29,NYC
+1973,Tom Fleming,Male,United States,02:21:54,NYC
+1973,Nina Kuscsik,Female,United States,02:57:07,NYC
+1972,Sheldon Karlin,Male,United States,02:27:52,NYC
+1972,Nina Kuscsik,Female,United States,03:08:41,NYC
+1971,Norman Higgins,Male,United States,02:22:54,NYC
+1970,Gary Muhrcke,Male,United States,02:31:38,NYC
+2018,Eliud Kipchoge,Male,Kenya,02:04:17,London
+2017,Daniel Wanjiru,Male,Kenya,02:05:48,London
+2017,Mary Keitany,Female,Kenya,02:17:01,London
+2016,Eliud Kipchoge,Male,Kenya,02:03:05,London
+2016,Jemima Sumgong,Female,Kenya,02:22:58,London
+2015,Eliud Kipchoge,Male,Kenya,02:04:42,London
+2015,Tigist Tufa,Female,Ethiopia,02:23:21,London
+2014,Wilson Kipsang,Male,Kenya,02:04:29,London
+2014,Edna Kiplagat,Female,Kenya,02:20:21,London
+2013,Tsegaye Kebede,Male,Ethiopia,02:06:04,London
+2013,Priscah Jeptoo,Female,Kenya,02:20:15,London
+2012,Wilson Kipsang,Male,Kenya,02:04:44,London
+2012,Mary Keitany,Female,Kenya,02:18:37,London
+2011,Emmanuel Mutai,Male,Kenya,02:04:40,London
+2011,Mary Keitany,Female,Kenya,02:19:19,London
+2010,Tsegaye Kebede,Male,Ethiopia,02:05:19,London
+2010,Aselefech Mergia,Female,Ethiopia,02:22:38,London
+2009,Samuel Wanjiru,Male,Kenya,02:05:10,London
+2009,Irina Mikitenko,Female,Germany,02:22:11,London
+2008,Martin Lel,Male,Kenya,02:05:15,London
+2008,Irina Mikitenko,Female,Germany,02:24:14,London
+2007,Martin Lel,Male,Kenya,02:07:41,London
+2007,Zhou Chunxiu,Female,China,02:20:38,London
+2006,Felix Limo,Male,Kenya,02:06:39,London
+2006,Deena Kastor,Female,United States,02:19:35,London
+2005,Martin Lel,Male,Kenya,02:07:35,London
+2005,Paula Radcliffe,Female,United Kingdom,02:17:42,London
+2004,Evans Rutto,Male,Kenya,02:06:18,London
+2004,Margaret Okayo,Female,Kenya,02:22:35,London
+2003,Gezahegne Abera,Male,Ethiopia,02:07:56,London
+2003,Paula Radcliffe,Female,United Kingdom,02:15:25,London
+2002,Khalid Khannouchi,Male,United States,02:05:38,London
+2002,Paula Radcliffe,Female,United Kingdom,02:18:56,London
+2001,Abdelkader El Mouaziz,Male,Morocco,02:07:09,London
+2001,Derartu Tulu,Female,Ethiopia,02:23:57,London
+2000,António Pinto,Male,Portugal,02:06:36,London
+2000,Tegla Laroupe,Female,Kenya,02:24:33,London
+1999,Abdelkader El Mouaziz,Male,Morocco,02:07:57,London
+1999,Joyce Chepchumba,Female,Kenya,02:23:22,London
+1998,Abel Antón,Male,Spain,02:07:57,London
+1998,Catherina McKiernan,Female,Ireland,02:26:26,London
+1997,António Pinto,Male,Portugal,02:07:55,London
+1997,Joyce Chepchumba,Female,Kenya,02:26:51,London
+1996,Dionicio Cerón,Male,Mexico,02:10:00,London
+1996,Liz McColgan,Female,United Kingdom,02:27:54,London
+1995,Dionicio Cerón,Male,Mexico,02:08:30,London
+1995,Malgorzata Sobanska,Female,Poland,02:27:43,London
+1994,Dionicio Cerón,Male,Mexico,02:08:53,London
+1994,Katrin Dörre-Heinig,Female,Germany,02:32:34,London
+1993,Eamonn Martin,Male,United Kingdom,02:10:50,London
+1993,Katrin Dörre-Heinig,Female,Germany,02:27:09,London
+1992,António Pinto,Male,Portugal,02:10:02,London
+1992,Katrin Dörre-Heinig,Female,Germany,02:29:39,London
+1991,Yakov Tolstikov,Male,Soviet Union,02:09:17,London
+1991,Rosa Mota,Female,Portugal,02:26:14,London
+1990,Allister Hutton,Male,United Kingdom,02:10:10,London
+1990,Wanda Panfil,Female,Poland,02:26:31,London
+1989,Douglas Wakiihuri,Male,Kenya,02:09:03,London
+1989,Véronique Marot,Female,United Kingdom,02:25:56,London
+1988,Henrik Jørgensen,Male,Denmark,02:10:20,London
+1988,Ingrid Kristiansen,Female,Norway,02:25:41,London
+1987,Hiromi Taniguchi,Male,Japan,02:09:50,London
+1987,Ingrid Kristiansen,Female,Norway,02:22:48,London
+1986,Toshihiko Seko,Male,Japan,02:10:02,London
+1986,Grete Waitz,Female,Norway,02:24:54,London
+1985,Steve Jones,Male,United Kingdom,02:08:16,London
+1985,Ingrid Kristiansen,Female,Norway,02:21:06,London
+1984,Charlie Spedding,Male,United Kingdom,02:09:57,London
+1984,Ingrid Kristiansen,Female,Norway,02:24:26,London
+1983,Mike Gratton,Male,United Kingdom,02:09:43,London
+1983,Grete Waitz,Female,Norway,02:25:29,London
+1982,Hugh Jones,Male,United Kingdom,02:09:24,London
+1982,Joyce Smith,Female,United Kingdom,02:29:43,London
+1981,Dick Beardsley,Male,United States,02:11:48,London
+1981,Inge Simonsen,Male,Norway,02:11:48,London
+1981,Joyce Smith,Female,United Kingdom,02:29:57,London
+2017,Galen Rupp,Male,United States,02:09:20,Chicago
+2017,Tirunesh Dibaba,Female,Ethiopia,02:18:31,Chicago
+2016,Abel Kirui,Male,Kenya,02:11:23,Chicago
+2016,Florence Kiplagat,Female,Kenya,02:21:32,Chicago
+2015,Dickson Chumba,Male,Kenya,02:09:25,Chicago
+2015,Florence Kiplagat,Female,Kenya,02:23:33,Chicago
+2014,Eliud Kipchoge,Male,Kenya,02:04:11,Chicago
+2014,Mare Dibaba,Female,Ethiopia,02:25:37,Chicago
+2013,Dennis Kimetto,Male,Kenya,02:03:45,Chicago
+2013,Rita Jeptoo,Female,Kenya,02:19:57,Chicago
+2012,Tsegaye Kebede,Male,Ethiopia,02:04:38,Chicago
+2012,Atsede Baysa,Female,Ethiopia,02:22:03,Chicago
+2011,Moses Mosop,Male,Kenya,02:05:37,Chicago
+2011,Ejegayehu Dibaba,Female,Ethiopia,02:22:09,Chicago
+2010,Samuel Wanjiru,Male,Kenya,02:06:23,Chicago
+2010,Atsede Baysa,Female,Ethiopia,02:23:40,Chicago
+2009,Samuel Wanjiru,Male,Kenya,02:05:41,Chicago
+2009,Irina Mikitenko,Female,Germany,02:26:31,Chicago
+2008,Evans Cheruiyot,Male,Kenya,02:06:25,Chicago
+2008,Lidiya Grigoryeva,Female,Russia,02:27:17,Chicago
+2007,Patrick Ivuti,Male,Kenya,02:11:11,Chicago
+2007,Berhane Adere,Female,Ethiopia,02:33:49,Chicago
+2006,Robert Cheruiyot,Male,Kenya,02:07:35,Chicago
+2006,Berhane Adere,Female,Ethiopia,02:20:42,Chicago
+2005,Felix Limo,Male,Kenya,02:07:02,Chicago
+2005,Deena Kastor,Female,United States,02:21:25,Chicago
+2004,Evans Rutto,Male,Kenya,02:06:16,Chicago
+2004,"Dita, Constantina",Female,Romania,02:23:45,Chicago
+2003,Evans Rutto,Male,Kenya,02:05:50,Chicago
+2003,Svetlana Zakharova,Female,Russia,02:23:07,Chicago
+2002,Khalid Khannouchi,Male,United States,02:05:56,Chicago
+2002,Paula Radcliffe,Female,United Kingdom,02:17:18,Chicago
+2001,Ben Kimondiu,Male,Kenya,02:08:52,Chicago
+2001,Catherine Ndereba,Female,Kenya,02:18:47,Chicago
+2000,Khalid Khannouchi,Male,United States,02:07:01,Chicago
+2000,Catherine Ndereba,Female,Kenya,02:21:33,Chicago
+1999,Khalid Khannouchi,Male,Morocco,02:05:42,Chicago
+1999,Joyce Chepchumba,Female,Kenya,02:25:59,Chicago
+1998,Ondoro Osoro,Male,Kenya,02:06:54,Chicago
+1998,Joyce Chepchumba,Female,Kenya,02:23:57,Chicago
+1997,Khalid Khannouchi,Male,Morocco,02:07:10,Chicago
+1997,Marian Sutton,Female,United Kingdom,02:29:03,Chicago
+1996,Paul Evans,Male,United Kingdom,02:08:52,Chicago
+1996,Marian Sutton,Female,United Kingdom,02:30:41,Chicago
+1995,Eamonn Martin,Male,United Kingdom,02:11:18,Chicago
+1995,Ritva Lemettinen,Female,Finland,02:28:27,Chicago
+1994,Luíz Antônio,Male,Brazil,02:11:16,Chicago
+1994,Kristy Johnston,Female,United States,02:31:34,Chicago
+1993,Luíz Antônio,Male,Brazil,02:13:14,Chicago
+1993,Ritva Lemettinen,Female,Finland,02:33:18,Chicago
+1992,José Cesar de Souza,Male,Brazil,02:16:14,Chicago
+1992,Linda Somers,Female,United States,02:37:41,Chicago
+1991,Joseildo Rocha,Male,Brazil,02:14:33,Chicago
+1991,Midde Hamrin,Female,Sweden,02:36:21,Chicago
+1990,Martín Pitayo,Male,Mexico,02:09:41,Chicago
+1990,Aurora Cunha,Female,Portugal,02:30:11,Chicago
+1989,Paul Davies-Hale,Male,United Kingdom,02:11:25,Chicago
+1989,Lisa Weidenbach,Female,United States,02:28:15,Chicago
+1988,Alejandro Cruz,Male,Mexico,02:08:57,Chicago
+1988,Lisa Weidenbach,Female,United States,02:29:17,Chicago
+1986,Toshihiko Seko,Male,Japan,02:08:27,Chicago
+1986,Ingrid Kristiansen,Female,Norway,02:27:08,Chicago
+1985,Steve Jones,Male,United Kingdom,02:07:13,Chicago
+1985,Joan Benoit,Female,United States,02:21:21,Chicago
+1984,Steve Jones,Male,United Kingdom,02:08:05,Chicago
+1984,Rosa Mota,Female,Portugal,02:26:01,Chicago
+1983,Joseph Nzau,Male,Kenya,02:09:44,Chicago
+1983,Rosa Mota,Female,Portugal,02:31:12,Chicago
+1982,Greg Meyer,Male,United States,02:10:59,Chicago
+1982,Nancy Conz,Female,United States,02:33:23,Chicago
+1981,Phil Coppess,Male,United States,02:16:13,Chicago
+1981,Tina Gandy,Female,United States,02:49:39,Chicago
+1980,Frank Richardson,Male,United States,02:14:04,Chicago
+1980,Sue Peterson,Female,United States,02:45:03,Chicago
+1979,Dan Cloeter,Male,United States,02:23:20,Chicago
+1979,Laura Michalek,Female,United States,03:15:45,Chicago
+1978,Mark Stanforth,Male,United States,02:19:20,Chicago
+1978,Lynae Larson,Female,United States,02:59:25,Chicago
+1977,Dan Cloeter,Male,United States,02:17:52,Chicago
+1977,Dorothy Doolittle,Female,United States,02:50:47,Chicago
+2018,Vivian Cheruiyot,Female,Kenya,02:18:31,London
