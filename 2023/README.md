@@ -6,6 +6,11 @@ A repository containing my contributions for the [#30DayMapChallenge 2023](https
 <img src="2023_prompts.png?raw=true" width=60%>
 </p>
 
+### Day 1: Points
+<p align="center">
+  <img src="maps/01_points.png?raw=true" width=50%>
+</p>
+
 ### Day 6: Asia
 <p align="center">
   <img src="maps/06_asia.png?raw=true" width=50%>
