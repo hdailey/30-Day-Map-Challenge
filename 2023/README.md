@@ -15,3 +15,8 @@ A repository containing my contributions for the [#30DayMapChallenge 2023](https
 <p align="center">
   <img src="maps/06_asia.png?raw=true" width=50%>
 </p>
+
+### Day 9: Hexagons
+<p align="center">
+  <img src="maps/09_hexagons.png?raw=true" width=50%>
+</p>
