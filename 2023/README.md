@@ -20,3 +20,8 @@ A repository containing my contributions for the [#30DayMapChallenge 2023](https
 <p align="center">
   <img src="maps/09_hexagons.png?raw=true" width=50%>
 </p>
+
+### Day 13: Chloropleth
+<p align="center">
+  <img src="maps/13_chloropleth.png?raw=true" width=50%>
+</p>
