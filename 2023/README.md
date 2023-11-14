@@ -25,3 +25,8 @@ A repository containing my contributions for the [#30DayMapChallenge 2023](https
 <p align="center">
   <img src="maps/13_chloropleth.png?raw=true" width=50%>
 </p>
+
+### Day 14: Europe
+<p align="center">
+  <img src="maps/14_europe.png?raw=true" width=50%>
+</p>
