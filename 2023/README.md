@@ -30,3 +30,8 @@ A repository containing my contributions for the [#30DayMapChallenge 2023](https
 <p align="center">
   <img src="maps/14_europe.png?raw=true" width=50%>
 </p>
+
+### Day 15: OpenStreetMaps
+<p align="center">
+  <img src="maps/15_openstreetmaps.png?raw=true" width=50%>
+</p>
