@@ -139,4 +139,4 @@ map3d <- ggplot() +
         plot.background = element_rect(fill = "grey95", colour = "grey95"))
 
 # Save ####
-ggsave(plot = map3d, path = here::here("2023/maps/"), width = 4, "15_openstreetmap.png", dpi = 320)
+ggsave(plot = map3d, path = here::here("2023/maps/"), width = 4, "15_openstreetmaps.png", dpi = 320)
