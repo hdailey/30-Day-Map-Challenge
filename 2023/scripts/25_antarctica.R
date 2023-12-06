@@ -22,7 +22,6 @@ ataMIZ <- st_read(here::here("2023/data/25_antarctica/nic_miz2023340sc_pl_a.shp"
 map <- ggplot() +
   geom_sf(data = ata, aes(geometry = geometry), fill = "grey95") +
   geom_sf(data = ataMIZ, aes(geometry = geometry, fill = ICECODE)) +
-  geom_sf(data = ataElev, aes(geometry = geometry)) +
   scale_fill_manual(values = c("yellow", "red")) +
   labs(title = "Antarctic Marginal Ice Zone (MIZ)",
        subtitle = "6 December 2023",
