@@ -50,3 +50,8 @@ A repository containing my contributions for the [#30DayMapChallenge 2023](https
 <p align="center">
   <img src="maps/21_raster.png?raw=true" width=50%>
 </p>
+
+### Day 25: Antarctica
+<p align="center">
+  <img src="maps/25_antarctica.png?raw=true" width=50%>
+</p>
