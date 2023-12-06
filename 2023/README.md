@@ -11,6 +11,11 @@ A repository containing my contributions for the [#30DayMapChallenge 2023](https
   <img src="maps/01_points.png?raw=true" width=50%>
 </p>
 
+### Day 2: Lines
+<p align="center">
+  <img src="maps/02_lines.png?raw=true" width=50%>
+</p>
+
 ### Day 6: Asia
 <p align="center">
   <img src="maps/06_asia.png?raw=true" width=50%>
@@ -34,4 +39,9 @@ A repository containing my contributions for the [#30DayMapChallenge 2023](https
 ### Day 15: OpenStreetMaps
 <p align="center">
   <img src="maps/15_openstreetmaps.png?raw=true" width=50%>
+</p>
+
+### Day 21: Raster
+<p align="center">
+  <img src="maps/21_raster.png?raw=true" width=50%>
 </p>
